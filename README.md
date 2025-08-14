@@ -1,7 +1,7 @@
 # 💼 AutoCAD Practice Drawings Portfolio
 
-Welcome to my collection of AutoCAD practice drawings. 
-This portfolio showcases a range of 2D drafting exercises covering **mechanical components**, **sectional views**, and **basic architectural layouts**.
+- Welcome to my collection of AutoCAD practice drawings. 
+- This portfolio showcases a range of 2D drafting exercises covering **mechanical components**, **sectional views**, and **basic architectural layouts**.
 
 ---
 
@@ -9,21 +9,18 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 
 ![Mechanical Designs](mechanical_designs.png)
 
----
-
 
 ## ✂️ Section Views
 
 ### **Die & Nozzle Section Views**
 - Clear **A-A sectional cuts**.
-- Shows inner structure and dimension annotations.
+- Shows inner structure and dimensions.
 - Demonstrates **cutaway views**, dimensions, and symmetry.
-- Shows technical detail and understanding of real-world components.
  
 ![Die & Nozzle](die_&_nozzle.png)
 
 ### **Curved Lever Arm with Shaft**
-- Clear **A-A sectional cuts**.
+- Clear front view and side view.
 - Shows multiple features like slot, curves, change in direction, etc.
  
 ![Lever Arm](curved_lever_arm.png)
