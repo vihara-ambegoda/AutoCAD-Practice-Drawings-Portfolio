@@ -21,11 +21,11 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
  
 ![3D View](3d-view.png)
 
-### 🔧 **1. Die and Nozzle Section Views** *(Design 5)*
+### 🔧 **Die & Nozzle Section Views** *(Design 5)*
 - Demonstrates **cutaway views**, dimensions, and symmetry.
 - Shows technical detail and understanding of real-world components.
  
-![3D View](die_&_nozzle.png)
+![Die & Nozzle](die_&_nozzle.png)
 
 ---
 
@@ -39,7 +39,7 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 - Room for improvement:
   - Add room labels, dimensions, and a title block in the future.
  
-![3D View](3d-view.png)
+![House Plan](house_plan.png)
 
 ---
 
