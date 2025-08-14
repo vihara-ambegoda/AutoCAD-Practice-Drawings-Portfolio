@@ -44,10 +44,10 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 
 ## 🔗 About This Repository
 
-This repository is part of my learning journey in **2D Technical Drafting** using AutoCAD. The goal is to improve:
-- Drawing accuracy
-- Use of CAD standards
-- Preparation for industry or academic projects
+This repository documents my learning journey in **2D Technical Drafting** using AutoCAD. The objectives include:
+- Improving drawing accuracy
+- Applying CAD standards
+- Preparing for industrial projects
 
 ---
 
