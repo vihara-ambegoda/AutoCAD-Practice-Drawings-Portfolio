@@ -16,7 +16,7 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 ### 🧲 **2. Symmetrical Mount / Casting** *(Design 6)*
 - Great example of **complex geometry** and centerline usage.
  
-![3D View](3d-view.png)
+![3D View](symmetrical-mount.png)
 
 ### 🛠️ **3. Lever Arm / Connector Link** *(Design 10 & 12)*
 - Illustrates functional parts that might appear in machines or assemblies.
