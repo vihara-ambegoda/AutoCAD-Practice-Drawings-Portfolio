@@ -39,7 +39,7 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 - Room for improvement:
   - Add room labels, dimensions, and a title block in the future.
  
-![House Plan](house_plan.png)
+![Floor Plan](floor_plan.png)
 
 ---
 
