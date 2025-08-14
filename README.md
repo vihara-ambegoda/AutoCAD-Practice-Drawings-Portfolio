@@ -1,7 +1,8 @@
 # 💼 AutoCAD Practice Drawings Portfolio
 
-- Welcome to my collection of AutoCAD practice drawings. 
-- This portfolio showcases a range of 2D drafting exercises covering **mechanical components**, **sectional views**, and **basic architectural layouts**.
+Welcome to my collection of AutoCAD practice drawings. 
+
+This portfolio showcases a range of 2D drafting exercises covering **mechanical components**, **sectional views**, and **basic architectural layouts**.
 
 ---
 
@@ -28,7 +29,7 @@
 
 ## 🏠 Architectural Design
 
-### 📏 **Basic Floor Plan**
+### **Basic Floor Plan**
 - Displays an interior layout with:
   - Doors and walls
   - A staircase
