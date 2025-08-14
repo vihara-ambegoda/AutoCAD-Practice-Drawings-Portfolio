@@ -51,9 +51,13 @@ This repository documents my learning journey in **2D Technical Drafting** using
 
 ---
 
+## 📄 License
+This project is shared for educational purposes. Please give credit if you use it.
+
+---
+
 ## 📬 Contact
 
 If you have feedback or suggestions, feel free to [open an issue](https://github.com).
 
 ---
-
