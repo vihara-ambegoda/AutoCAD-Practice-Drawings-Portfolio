@@ -41,6 +41,12 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
   
 ![Bearing Block](bearing_block_front.png)
 
+### 🔩 Fastener Variants
+- This drawing includes three types of bolts or fasteners with centerlines and precise geometry.
+- Useful for demonstrating attention to engineering drawing standards.
+
+![Fastener Variants](bolt_variants.png)
+
 ---
 
 ## ✂️ Section Views
