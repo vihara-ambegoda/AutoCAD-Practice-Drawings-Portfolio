@@ -38,8 +38,8 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 ### 🧱 Machined Bearing Block (New Design)
 - This drawing shows a bearing or mounting block with proper use of centerlines and hidden features.
 - It demonstrates understanding of technical conventions used in mechanical drafting.
-- 
-![Bearing Block](images/bearing_block_front.png)
+  
+![Bearing Block](bearing_block_front.png)
 
 ---
 
