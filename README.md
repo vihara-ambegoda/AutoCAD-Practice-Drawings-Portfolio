@@ -14,26 +14,17 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 ## ✂️ Section Views
 
 #### **Die & Nozzle Section Views**
-- Clear **A-A sectional cuts**.
-- Shows inner structure and dimensions.
-- Demonstrates **cutaway views**, dimensions, and symmetry.
- 
+
 ![Die & Nozzle](die_&_nozzle.png)
 
-### **Curved Lever Arm with Shaft**
-- Clear front view and side view.
-- Shows multiple features like slot, curves, change in direction, etc.
+#### **Curved Lever Arm with Shaft**
  
 ![Lever Arm](curved_lever_arm.png)
 
 
 ## 🏠 Architectural Design
 
-### **Basic Floor Plan**
-- Displays an interior layout with:
-  - Doors and walls
-  - A staircase
-  - Multiple rooms
+#### **Basic Floor Plan**
  
 ![Floor Plan](floor_plan.png)
 
