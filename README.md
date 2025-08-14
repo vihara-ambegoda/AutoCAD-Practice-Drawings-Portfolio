@@ -7,21 +7,16 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 
 ## 📐 Featured Mechanical Designs
 
-
 ![Mechanical Designs](mechanical_designs.png)
-
 
 ---
 
+
 ## ✂️ Section Views
 
-### 🧪 **Die & Nozzle Assembly (Design 5)**
+### **Die & Nozzle Section Views**
 - Clear **A-A sectional cuts**.
 - Shows inner structure and dimension annotations.
- 
-![3D View](3d-view.png)
-
-### **Die & Nozzle Section Views**
 - Demonstrates **cutaway views**, dimensions, and symmetry.
 - Shows technical detail and understanding of real-world components.
  
@@ -36,13 +31,11 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 
 ## 🏠 Architectural Design
 
-### 📏 **Basic Floor Plan** *(Design 21)*
+### 📏 **Basic Floor Plan**
 - Displays an interior layout with:
   - Doors and walls
   - A staircase
   - Multiple rooms
-- Room for improvement:
-  - Add room labels, dimensions, and a title block in the future.
  
 ![Floor Plan](floor_plan.png)
 
