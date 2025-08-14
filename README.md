@@ -13,7 +13,7 @@ This portfolio showcases a range of 2D drafting exercises covering **mechanical 
 
 ## ✂️ Section Views
 
-### **Die & Nozzle Section Views**
+#### **Die & Nozzle Section Views**
 - Clear **A-A sectional cuts**.
 - Shows inner structure and dimensions.
 - Demonstrates **cutaway views**, dimensions, and symmetry.
