@@ -1,6 +1,7 @@
-# 🧰 AutoCAD Practice Drawings Portfolio
+# 💼 AutoCAD Practice Drawings Portfolio
 
-Welcome to my collection of AutoCAD practice drawings. This portfolio showcases a range of 2D drafting exercises covering **mechanical components**, **sectional views**, and **basic architectural layouts**.
+Welcome to my collection of AutoCAD practice drawings. 
+This portfolio showcases a range of 2D drafting exercises covering **mechanical components**, **sectional views**, and **basic architectural layouts**.
 
 ---
 
@@ -10,7 +11,7 @@ Welcome to my collection of AutoCAD practice drawings. This portfolio showcases 
 - Demonstrates **cutaway views**, dimensions, and symmetry.
 - Shows technical detail and understanding of real-world components.
  
-![3D View](3d-view.png)
+![3D View](die_&_nozzle.png)
 
 ### 🧲 **2. Symmetrical Mount / Casting** *(Design 6)*
 - Great example of **complex geometry** and centerline usage.
